@@ -13,10 +13,10 @@ import datetime
 # In[48]:
 
 
-consumer_key = 'idRM2Gd434GELnVIJxtk8F3Ly' 
-consumer_secret = '8iLvHK7U80nxp4JAynNx96MEh2UixfddALebiShZAj7JHYH5UA' 
-access_token = '1283305452269260803-0iddWDQ0gc828LjvDbc5iPoEs6qpEh'
-access_token_secret = 'CZkh3ZmEnzB0iGYjy6BbGsTeITtu050y5QSgiV5SmgQla'
+consumer_key = '' 
+consumer_secret = '' 
+access_token = ''
+access_token_secret = ''
 
 
 # In[49]:
