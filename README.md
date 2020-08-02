@@ -1,2 +1,2 @@
 # prime_bot
-A Twitter bot that tweets one new prime number every day!
+A Twitter bot that tweets out unique, pseudo-random prime numbers every day
